@@ -47,6 +47,6 @@ jobs:
       - name: Publish Direct Release APK
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v-1792488118215
+          tag_name: v-1792488221659
           name: "مُنجز (1.0.0)"
           files: com_studio_monjez.apk
